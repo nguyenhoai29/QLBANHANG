@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{213711C6-B811-486D-8D02-658A94315880}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QLBANHANG</RootNamespace>
+    <AssemblyName>QLBANHANG</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FORM_DANGNHAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM_DANGNHAP.Designer.cs">
+      <DependentUpon>FORM_DANGNHAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM_DONDATHANG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM_DONDATHANG.Designer.cs">
+      <DependentUpon>FORM_DONDATHANG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM_HOADON.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM_HOADON.Designer.cs">
+      <DependentUpon>FORM_HOADON.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM_KHACHHANG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM_KHACHHANG.Designer.cs">
+      <DependentUpon>FORM_KHACHHANG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM_LOAIHANG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM_LOAIHANG.Designer.cs">
+      <DependentUpon>FORM_LOAIHANG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM_MATHANG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM_MATHANG.Designer.cs">
+      <DependentUpon>FORM_MATHANG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM_NHACUNGCAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM_NHACUNGCAP.Designer.cs">
+      <DependentUpon>FORM_NHACUNGCAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM_NHANVIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM_NHANVIEN.Designer.cs">
+      <DependentUpon>FORM_NHANVIEN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM_THONGKE_TONGHOP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM_THONGKE_TONGHOP.Designer.cs">
+      <DependentUpon>FORM_THONGKE_TONGHOP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM_TRANGCHU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM_TRANGCHU.Designer.cs">
+      <DependentUpon>FORM_TRANGCHU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoaDonBanHang.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HoaDonBanHang.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="InHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InHoaDon.Designer.cs">
+      <DependentUpon>InHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="C.cs" />
+    <Compile Include="C.Designer.cs">
+      <DependentUpon>C.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <None Include="Resources\images.png" />
+    <None Include="Resources\images %283%29.jfif" />
+    <None Include="Resources\eye1.png" />
+    <None Include="Resources\eye.png" />
+    <EmbeddedResource Include="FORM_DANGNHAP.resx">
+      <DependentUpon>FORM_DANGNHAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM_DONDATHANG.resx">
+      <DependentUpon>FORM_DONDATHANG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM_HOADON.resx">
+      <DependentUpon>FORM_HOADON.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM_KHACHHANG.resx">
+      <DependentUpon>FORM_KHACHHANG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM_LOAIHANG.resx">
+      <DependentUpon>FORM_LOAIHANG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM_MATHANG.resx">
+      <DependentUpon>FORM_MATHANG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM_NHACUNGCAP.resx">
+      <DependentUpon>FORM_NHACUNGCAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM_NHANVIEN.resx">
+      <DependentUpon>FORM_NHANVIEN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM_THONGKE_TONGHOP.resx">
+      <DependentUpon>FORM_THONGKE_TONGHOP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM_TRANGCHU.resx">
+      <DependentUpon>FORM_TRANGCHU.cs</DependentUpon>
+    </EmbeddedResource>
+    <Content Include="HoaDonBanHang.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>HoaDonBanHang.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <EmbeddedResource Include="InHoaDon.resx">
+      <DependentUpon>InHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="C.resx">
+      <DependentUpon>C.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL2\BLL2.csproj">
+      <Project>{12146e8e-eb83-4d60-b34b-578ef3649247}</Project>
+      <Name>BLL2</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot %28193%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot %28194%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4619636_food_fruit_fruits_mango_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

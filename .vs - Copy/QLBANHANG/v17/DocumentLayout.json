@@ -1,0 +1,839 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QLBANHANG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|d:\\qlbanhang\\form_thongke_tonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:form_thongke_tonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\form_thongke_tonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:form_thongke_tonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0562FD9-F0B1-456D-8613-1C52890E6E7B}|..\\DAL2\\DAL2.csproj|d:\\dal2\\khachhang_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\form_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:form_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\form_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:form_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\form_nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:form_nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\inhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:inhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\inhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:inhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\form_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:form_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\form_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:form_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0562FD9-F0B1-456D-8613-1C52890E6E7B}|..\\DAL2\\DAL2.csproj|d:\\dal2\\hoadon_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12146E8E-EB83-4D60-B34B-578EF3649247}|..\\BLL2\\BLL2.csproj|d:\\bll2\\hoadon_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12146E8E-EB83-4D60-B34B-578EF3649247}|..\\BLL2\\BLL2.csproj|d:\\bll2\\chitiethoadon_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\hoadonbanhang.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:hoadonbanhang.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\form_dondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:form_dondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\form_dondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:form_dondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\c.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:c.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0562FD9-F0B1-456D-8613-1C52890E6E7B}|..\\DAL2\\DAL2.csproj|d:\\dal2\\dondathang_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12146E8E-EB83-4D60-B34B-578EF3649247}|..\\BLL2\\BLL2.csproj|d:\\bll2\\dondathang_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0562FD9-F0B1-456D-8613-1C52890E6E7B}|..\\DAL2\\DAL2.csproj|d:\\dal2\\chitiethoadon_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12146E8E-EB83-4D60-B34B-578EF3649247}|..\\BLL2\\BLL2.csproj|d:\\bll2\\chitietdathang_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\form_loaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:form_loaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0562FD9-F0B1-456D-8613-1C52890E6E7B}|..\\DAL2\\DAL2.csproj|d:\\dal2\\thaotac_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\form_mathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:form_mathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12146E8E-EB83-4D60-B34B-578EF3649247}|..\\BLL2\\BLL2.csproj|d:\\bll2\\nguoidung_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12146E8E-EB83-4D60-B34B-578EF3649247}|..\\BLL2\\BLL2.csproj|d:\\bll2\\tienbangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\form_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:form_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\form_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:form_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0562FD9-F0B1-456D-8613-1C52890E6E7B}|..\\DAL2\\DAL2.csproj|d:\\dal2\\nguoidung_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12146E8E-EB83-4D60-B34B-578EF3649247}|..\\BLL2\\BLL2.csproj|d:\\bll2\\thongkebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0562FD9-F0B1-456D-8613-1C52890E6E7B}|..\\DAL2\\DAL2.csproj|d:\\dal2\\thongkedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\form_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:form_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\form_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:form_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0562FD9-F0B1-456D-8613-1C52890E6E7B}|..\\DAL2\\DAL2.csproj|d:\\dal2\\nhanvien_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12146E8E-EB83-4D60-B34B-578EF3649247}|..\\BLL2\\BLL2.csproj|d:\\bll2\\khachhang_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12146E8E-EB83-4D60-B34B-578EF3649247}|..\\BLL2\\BLL2.csproj|d:\\bll2\\nhanvien_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\form_hoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:form_hoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12146E8E-EB83-4D60-B34B-578EF3649247}|..\\BLL2\\BLL2.csproj|d:\\bll2\\nhacungcap_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\form_nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:form_nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0562FD9-F0B1-456D-8613-1C52890E6E7B}|..\\DAL2\\DAL2.csproj|d:\\dal2\\nhacungcap_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\form_loaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:form_loaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12146E8E-EB83-4D60-B34B-578EF3649247}|..\\BLL2\\BLL2.csproj|d:\\bll2\\loaihang_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|D:\\QLBANHANG\\form_mathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213711C6-B811-486D-8D02-658A94315880}|QLBANHANG.csproj|solutionrelative:form_mathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12146E8E-EB83-4D60-B34B-578EF3649247}|..\\BLL2\\BLL2.csproj|d:\\bll2\\mathang_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12146E8E-EB83-4D60-B34B-578EF3649247}|..\\BLL2\\BLL2.csproj|d:\\bll2\\codegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0562FD9-F0B1-456D-8613-1C52890E6E7B}|..\\DAL2\\DAL2.csproj|d:\\dal2\\chitietdathang_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0562FD9-F0B1-456D-8613-1C52890E6E7B}|..\\DAL2\\DAL2.csproj|d:\\dal2\\loaihang_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0562FD9-F0B1-456D-8613-1C52890E6E7B}|..\\DAL2\\DAL2.csproj|d:\\dal2\\mathang_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FORM_NHANVIEN.cs [Design]",
+              "DocumentMoniker": "D:\\QLBANHANG\\FORM_NHANVIEN.cs",
+              "RelativeDocumentMoniker": "FORM_NHANVIEN.cs",
+              "ToolTip": "D:\\QLBANHANG\\FORM_NHANVIEN.cs [Design]",
+              "RelativeToolTip": "FORM_NHANVIEN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:53:56.706Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FORM_MATHANG.cs [Design]",
+              "DocumentMoniker": "D:\\QLBANHANG\\FORM_MATHANG.cs",
+              "RelativeDocumentMoniker": "FORM_MATHANG.cs",
+              "ToolTip": "D:\\QLBANHANG\\FORM_MATHANG.cs [Design]",
+              "RelativeToolTip": "FORM_MATHANG.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:00:33.379Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FORM_LOAIHANG.cs [Design]",
+              "DocumentMoniker": "D:\\QLBANHANG\\FORM_LOAIHANG.cs",
+              "RelativeDocumentMoniker": "FORM_LOAIHANG.cs",
+              "ToolTip": "D:\\QLBANHANG\\FORM_LOAIHANG.cs [Design]",
+              "RelativeToolTip": "FORM_LOAIHANG.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:09:32.708Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FORM_KHACHHANG.cs [Design]",
+              "DocumentMoniker": "D:\\QLBANHANG\\FORM_KHACHHANG.cs",
+              "RelativeDocumentMoniker": "FORM_KHACHHANG.cs",
+              "ToolTip": "D:\\QLBANHANG\\FORM_KHACHHANG.cs [Design]",
+              "RelativeToolTip": "FORM_KHACHHANG.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:16:54.456Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FORM_NHACUNGCAP.cs [Design]",
+              "DocumentMoniker": "D:\\QLBANHANG\\FORM_NHACUNGCAP.cs",
+              "RelativeDocumentMoniker": "FORM_NHACUNGCAP.cs",
+              "ToolTip": "D:\\QLBANHANG\\FORM_NHACUNGCAP.cs [Design]",
+              "RelativeToolTip": "FORM_NHACUNGCAP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:25:18.596Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FORM_DONDATHANG.cs [Design]",
+              "DocumentMoniker": "D:\\QLBANHANG\\FORM_DONDATHANG.cs",
+              "RelativeDocumentMoniker": "FORM_DONDATHANG.cs",
+              "ToolTip": "D:\\QLBANHANG\\FORM_DONDATHANG.cs [Design]",
+              "RelativeToolTip": "FORM_DONDATHANG.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:32:04.72Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "C.cs",
+              "DocumentMoniker": "D:\\QLBANHANG\\C.cs",
+              "RelativeDocumentMoniker": "C.cs",
+              "ToolTip": "D:\\QLBANHANG\\C.cs",
+              "RelativeToolTip": "C.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:27:48.099Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InHoaDon.cs",
+              "DocumentMoniker": "D:\\QLBANHANG\\InHoaDon.cs",
+              "RelativeDocumentMoniker": "InHoaDon.cs",
+              "ToolTip": "D:\\QLBANHANG\\InHoaDon.cs",
+              "RelativeToolTip": "InHoaDon.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:05:40.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FORM_THONGKE_TONGHOP.cs [Design]",
+              "DocumentMoniker": "D:\\QLBANHANG\\FORM_THONGKE_TONGHOP.cs",
+              "RelativeDocumentMoniker": "FORM_THONGKE_TONGHOP.cs",
+              "ToolTip": "D:\\QLBANHANG\\FORM_THONGKE_TONGHOP.cs [Design]",
+              "RelativeToolTip": "FORM_THONGKE_TONGHOP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:49:55.796Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FORM_KHACHHANG.cs",
+              "DocumentMoniker": "D:\\QLBANHANG\\FORM_KHACHHANG.cs",
+              "RelativeDocumentMoniker": "FORM_KHACHHANG.cs",
+              "ToolTip": "D:\\QLBANHANG\\FORM_KHACHHANG.cs",
+              "RelativeToolTip": "FORM_KHACHHANG.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAwwHoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:22:01.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KHACHHANG_DAL.cs",
+              "DocumentMoniker": "D:\\DAL2\\KHACHHANG_DAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL2\\KHACHHANG_DAL.cs",
+              "ToolTip": "D:\\DAL2\\KHACHHANG_DAL.cs",
+              "RelativeToolTip": "..\\DAL2\\KHACHHANG_DAL.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAuwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:53:07.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FORM_THONGKE_TONGHOP.cs",
+              "DocumentMoniker": "D:\\QLBANHANG\\FORM_THONGKE_TONGHOP.cs",
+              "RelativeDocumentMoniker": "FORM_THONGKE_TONGHOP.cs",
+              "ToolTip": "D:\\QLBANHANG\\FORM_THONGKE_TONGHOP.cs",
+              "RelativeToolTip": "FORM_THONGKE_TONGHOP.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAApwFoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:51:34.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FORM_HOADON.cs [Design]",
+              "DocumentMoniker": "D:\\QLBANHANG\\FORM_HOADON.cs",
+              "RelativeDocumentMoniker": "FORM_HOADON.cs",
+              "ToolTip": "D:\\QLBANHANG\\FORM_HOADON.cs [Design]",
+              "RelativeToolTip": "FORM_HOADON.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:36:36.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HOADON_DAL.cs",
+              "DocumentMoniker": "D:\\DAL2\\HOADON_DAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL2\\HOADON_DAL.cs",
+              "ToolTip": "D:\\DAL2\\HOADON_DAL.cs",
+              "RelativeToolTip": "..\\DAL2\\HOADON_DAL.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAIkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T06:56:21.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HOADON_BLL.cs",
+              "DocumentMoniker": "D:\\BLL2\\HOADON_BLL.cs",
+              "RelativeDocumentMoniker": "..\\BLL2\\HOADON_BLL.cs",
+              "ToolTip": "D:\\BLL2\\HOADON_BLL.cs",
+              "RelativeToolTip": "..\\BLL2\\HOADON_BLL.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAiwFYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:03:12.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\QLBANHANG\\InHoaDon.cs",
+              "RelativeDocumentMoniker": "InHoaDon.cs",
+              "ToolTip": "D:\\QLBANHANG\\InHoaDon.cs [Design]",
+              "RelativeToolTip": "InHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:00:44.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FORM_HOADON.cs",
+              "DocumentMoniker": "D:\\QLBANHANG\\FORM_HOADON.cs",
+              "RelativeDocumentMoniker": "FORM_HOADON.cs",
+              "ToolTip": "D:\\QLBANHANG\\FORM_HOADON.cs",
+              "RelativeToolTip": "FORM_HOADON.cs",
+              "ViewState": "AQIAABYBAAAAAAAAAAAAAJQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:43:02.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CHITIETHOADON_BLL.cs",
+              "DocumentMoniker": "D:\\BLL2\\CHITIETHOADON_BLL.cs",
+              "RelativeDocumentMoniker": "..\\BLL2\\CHITIETHOADON_BLL.cs",
+              "ToolTip": "D:\\BLL2\\CHITIETHOADON_BLL.cs",
+              "RelativeToolTip": "..\\BLL2\\CHITIETHOADON_BLL.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwBUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:03:54.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FORM_DONDATHANG.cs",
+              "DocumentMoniker": "D:\\QLBANHANG\\FORM_DONDATHANG.cs",
+              "RelativeDocumentMoniker": "FORM_DONDATHANG.cs",
+              "ToolTip": "D:\\QLBANHANG\\FORM_DONDATHANG.cs",
+              "RelativeToolTip": "FORM_DONDATHANG.cs",
+              "ViewState": "AQIAABQBAAAAAAAAAAAiwCcBAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:46:52.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HoaDonBanHang.rpt",
+              "DocumentMoniker": "D:\\QLBANHANG\\HoaDonBanHang.rpt",
+              "RelativeDocumentMoniker": "HoaDonBanHang.rpt",
+              "ToolTip": "D:\\QLBANHANG\\HoaDonBanHang.rpt",
+              "RelativeToolTip": "HoaDonBanHang.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-06-18T16:34:37.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "C.Designer.cs",
+              "DocumentMoniker": "D:\\QLBANHANG\\C.Designer.cs",
+              "RelativeDocumentMoniker": "C.Designer.cs",
+              "ToolTip": "D:\\QLBANHANG\\C.Designer.cs",
+              "RelativeToolTip": "C.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:54:26.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DONDATHANG_DAL.cs",
+              "DocumentMoniker": "D:\\DAL2\\DONDATHANG_DAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL2\\DONDATHANG_DAL.cs",
+              "ToolTip": "D:\\DAL2\\DONDATHANG_DAL.cs",
+              "RelativeToolTip": "..\\DAL2\\DONDATHANG_DAL.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAqwJEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:48:31.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DONDATHANG_BLL.cs",
+              "DocumentMoniker": "D:\\BLL2\\DONDATHANG_BLL.cs",
+              "RelativeDocumentMoniker": "..\\BLL2\\DONDATHANG_BLL.cs",
+              "ToolTip": "D:\\BLL2\\DONDATHANG_BLL.cs",
+              "RelativeToolTip": "..\\BLL2\\DONDATHANG_BLL.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAiwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:04:51.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "C.cs [Design]",
+              "DocumentMoniker": "D:\\QLBANHANG\\C.cs",
+              "RelativeDocumentMoniker": "C.cs",
+              "ToolTip": "D:\\QLBANHANG\\C.cs [Design]",
+              "RelativeToolTip": "C.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:20:51.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CHITIETHOADON_DAL.cs",
+              "DocumentMoniker": "D:\\DAL2\\CHITIETHOADON_DAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL2\\CHITIETHOADON_DAL.cs",
+              "ToolTip": "D:\\DAL2\\CHITIETHOADON_DAL.cs",
+              "RelativeToolTip": "..\\DAL2\\CHITIETHOADON_DAL.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:48:31.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CHITIETDATHANG_BLL.cs",
+              "DocumentMoniker": "D:\\BLL2\\CHITIETDATHANG_BLL.cs",
+              "RelativeDocumentMoniker": "..\\BLL2\\CHITIETDATHANG_BLL.cs",
+              "ToolTip": "D:\\BLL2\\CHITIETDATHANG_BLL.cs",
+              "RelativeToolTip": "..\\BLL2\\CHITIETDATHANG_BLL.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:05:45.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ThaoTac_DAL.cs",
+              "DocumentMoniker": "D:\\DAL2\\ThaoTac_DAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL2\\ThaoTac_DAL.cs",
+              "ToolTip": "D:\\DAL2\\ThaoTac_DAL.cs",
+              "RelativeToolTip": "..\\DAL2\\ThaoTac_DAL.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAiwD4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:48:24.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NguoiDung_BLL.cs",
+              "DocumentMoniker": "D:\\BLL2\\NguoiDung_BLL.cs",
+              "RelativeDocumentMoniker": "..\\BLL2\\NguoiDung_BLL.cs",
+              "ToolTip": "D:\\BLL2\\NguoiDung_BLL.cs",
+              "RelativeToolTip": "..\\BLL2\\NguoiDung_BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T02:29:56.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TienBangChu.cs",
+              "DocumentMoniker": "D:\\BLL2\\TienBangChu.cs",
+              "RelativeDocumentMoniker": "..\\BLL2\\TienBangChu.cs",
+              "ToolTip": "D:\\BLL2\\TienBangChu.cs",
+              "RelativeToolTip": "..\\BLL2\\TienBangChu.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAqwEwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:02:28.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FORM_DANGNHAP.cs [Design]",
+              "DocumentMoniker": "D:\\QLBANHANG\\FORM_DANGNHAP.cs",
+              "RelativeDocumentMoniker": "FORM_DANGNHAP.cs",
+              "ToolTip": "D:\\QLBANHANG\\FORM_DANGNHAP.cs [Design]",
+              "RelativeToolTip": "FORM_DANGNHAP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:17:45.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FORM_TRANGCHU.cs",
+              "DocumentMoniker": "D:\\QLBANHANG\\FORM_TRANGCHU.cs",
+              "RelativeDocumentMoniker": "FORM_TRANGCHU.cs",
+              "ToolTip": "D:\\QLBANHANG\\FORM_TRANGCHU.cs",
+              "RelativeToolTip": "FORM_TRANGCHU.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAkwKsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:30:27.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FORM_DANGNHAP.cs",
+              "DocumentMoniker": "D:\\QLBANHANG\\FORM_DANGNHAP.cs",
+              "RelativeDocumentMoniker": "FORM_DANGNHAP.cs",
+              "ToolTip": "D:\\QLBANHANG\\FORM_DANGNHAP.cs",
+              "RelativeToolTip": "FORM_DANGNHAP.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwDsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:20:06.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FORM_TRANGCHU.cs [Design]",
+              "DocumentMoniker": "D:\\QLBANHANG\\FORM_TRANGCHU.cs",
+              "RelativeDocumentMoniker": "FORM_TRANGCHU.cs",
+              "ToolTip": "D:\\QLBANHANG\\FORM_TRANGCHU.cs [Design]",
+              "RelativeToolTip": "FORM_TRANGCHU.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:25:41.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NguoiDung_DAL.cs",
+              "DocumentMoniker": "D:\\DAL2\\NguoiDung_DAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL2\\NguoiDung_DAL.cs",
+              "ToolTip": "D:\\DAL2\\NguoiDung_DAL.cs",
+              "RelativeToolTip": "..\\DAL2\\NguoiDung_DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T02:29:00.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ThongKeBLL.cs",
+              "DocumentMoniker": "D:\\BLL2\\ThongKeBLL.cs",
+              "RelativeDocumentMoniker": "..\\BLL2\\ThongKeBLL.cs",
+              "ToolTip": "D:\\BLL2\\ThongKeBLL.cs",
+              "RelativeToolTip": "..\\BLL2\\ThongKeBLL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:47:30.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ThongKeDAL.cs",
+              "DocumentMoniker": "D:\\DAL2\\ThongKeDAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL2\\ThongKeDAL.cs",
+              "ToolTip": "D:\\DAL2\\ThongKeDAL.cs",
+              "RelativeToolTip": "..\\DAL2\\ThongKeDAL.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:45:54.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FORM_NHANVIEN.cs",
+              "DocumentMoniker": "D:\\QLBANHANG\\FORM_NHANVIEN.cs",
+              "RelativeDocumentMoniker": "FORM_NHANVIEN.cs",
+              "ToolTip": "D:\\QLBANHANG\\FORM_NHANVIEN.cs",
+              "RelativeToolTip": "FORM_NHANVIEN.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAvwH0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:55:19.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "KHACHHANG_BLL.cs",
+              "DocumentMoniker": "D:\\BLL2\\KHACHHANG_BLL.cs",
+              "RelativeDocumentMoniker": "..\\BLL2\\KHACHHANG_BLL.cs",
+              "ToolTip": "D:\\BLL2\\KHACHHANG_BLL.cs",
+              "RelativeToolTip": "..\\BLL2\\KHACHHANG_BLL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:06:32.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "NHANVIEN_DAL.cs",
+              "DocumentMoniker": "D:\\DAL2\\NHANVIEN_DAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL2\\NHANVIEN_DAL.cs",
+              "ToolTip": "D:\\DAL2\\NHANVIEN_DAL.cs",
+              "RelativeToolTip": "..\\DAL2\\NHANVIEN_DAL.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:56:06.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "NHANVIEN_BLL.cs",
+              "DocumentMoniker": "D:\\BLL2\\NHANVIEN_BLL.cs",
+              "RelativeDocumentMoniker": "..\\BLL2\\NHANVIEN_BLL.cs",
+              "ToolTip": "D:\\BLL2\\NHANVIEN_BLL.cs",
+              "RelativeToolTip": "..\\BLL2\\NHANVIEN_BLL.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:00:19.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FORM_HOADON.Designer.cs",
+              "DocumentMoniker": "D:\\QLBANHANG\\FORM_HOADON.Designer.cs",
+              "RelativeDocumentMoniker": "FORM_HOADON.Designer.cs",
+              "ToolTip": "D:\\QLBANHANG\\FORM_HOADON.Designer.cs",
+              "RelativeToolTip": "FORM_HOADON.Designer.cs",
+              "ViewState": "AQIAAEQBAAAAAAAAAAAgwGoBAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:35:27.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "NHACUNGCAP_BLL.cs",
+              "DocumentMoniker": "D:\\BLL2\\NHACUNGCAP_BLL.cs",
+              "RelativeDocumentMoniker": "..\\BLL2\\NHACUNGCAP_BLL.cs",
+              "ToolTip": "D:\\BLL2\\NHACUNGCAP_BLL.cs",
+              "RelativeToolTip": "..\\BLL2\\NHACUNGCAP_BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:07:17.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FORM_NHACUNGCAP.cs",
+              "DocumentMoniker": "D:\\QLBANHANG\\FORM_NHACUNGCAP.cs",
+              "RelativeDocumentMoniker": "FORM_NHACUNGCAP.cs",
+              "ToolTip": "D:\\QLBANHANG\\FORM_NHACUNGCAP.cs",
+              "RelativeToolTip": "FORM_NHACUNGCAP.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAwwHAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:29:26.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "NHACUNGCAP_DAL.cs",
+              "DocumentMoniker": "D:\\DAL2\\NHACUNGCAP_DAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL2\\NHACUNGCAP_DAL.cs",
+              "ToolTip": "D:\\DAL2\\NHACUNGCAP_DAL.cs",
+              "RelativeToolTip": "..\\DAL2\\NHACUNGCAP_DAL.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowBUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:54:12.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QLBANHANG\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\QLBANHANG\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T18:16:05.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FORM_LOAIHANG.cs",
+              "DocumentMoniker": "D:\\QLBANHANG\\FORM_LOAIHANG.cs",
+              "RelativeDocumentMoniker": "FORM_LOAIHANG.cs",
+              "ToolTip": "D:\\QLBANHANG\\FORM_LOAIHANG.cs",
+              "RelativeToolTip": "FORM_LOAIHANG.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAjwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:12:45.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LOAIHANG_BLL.cs",
+              "DocumentMoniker": "D:\\BLL2\\LOAIHANG_BLL.cs",
+              "RelativeDocumentMoniker": "..\\BLL2\\LOAIHANG_BLL.cs",
+              "ToolTip": "D:\\BLL2\\LOAIHANG_BLL.cs",
+              "RelativeToolTip": "..\\BLL2\\LOAIHANG_BLL.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:02:14.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FORM_MATHANG.cs",
+              "DocumentMoniker": "D:\\QLBANHANG\\FORM_MATHANG.cs",
+              "RelativeDocumentMoniker": "FORM_MATHANG.cs",
+              "ToolTip": "D:\\QLBANHANG\\FORM_MATHANG.cs",
+              "RelativeToolTip": "FORM_MATHANG.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwDAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:05:25.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MATHANG_BLL.cs",
+              "DocumentMoniker": "D:\\BLL2\\MATHANG_BLL.cs",
+              "RelativeDocumentMoniker": "..\\BLL2\\MATHANG_BLL.cs",
+              "ToolTip": "D:\\BLL2\\MATHANG_BLL.cs",
+              "RelativeToolTip": "..\\BLL2\\MATHANG_BLL.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAuwCcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:01:27.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CodeGenerator.cs",
+              "DocumentMoniker": "D:\\BLL2\\CodeGenerator.cs",
+              "RelativeDocumentMoniker": "..\\BLL2\\CodeGenerator.cs",
+              "ToolTip": "D:\\BLL2\\CodeGenerator.cs",
+              "RelativeToolTip": "..\\BLL2\\CodeGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:51:04.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CHITIETDATHANG_DAL.cs",
+              "DocumentMoniker": "D:\\DAL2\\CHITIETDATHANG_DAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL2\\CHITIETDATHANG_DAL.cs",
+              "ToolTip": "D:\\DAL2\\CHITIETDATHANG_DAL.cs",
+              "RelativeToolTip": "..\\DAL2\\CHITIETDATHANG_DAL.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwBIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:52:09.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "LOAIHANG_DAL.cs",
+              "DocumentMoniker": "D:\\DAL2\\LOAIHANG_DAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL2\\LOAIHANG_DAL.cs",
+              "ToolTip": "D:\\DAL2\\LOAIHANG_DAL.cs",
+              "RelativeToolTip": "..\\DAL2\\LOAIHANG_DAL.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwDUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:48:31.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "MATHANG_DAL.cs",
+              "DocumentMoniker": "D:\\DAL2\\MATHANG_DAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL2\\MATHANG_DAL.cs",
+              "ToolTip": "D:\\DAL2\\MATHANG_DAL.cs",
+              "RelativeToolTip": "..\\DAL2\\MATHANG_DAL.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwDwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:48:30.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
